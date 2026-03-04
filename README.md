@@ -1,4 +1,4 @@
-# ☺️ Hello Mama! This is my Coding Journey (Day1)
+# ☺️~~Hello World~~ Hello Mama! This is my Coding Journey (Day1)
 
 Welcome to my very first GitHub repository! I am a self-taught developer from Thailand, I life in Vienna and currently learning the foundations of web development.
 
