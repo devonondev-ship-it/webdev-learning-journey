@@ -6,7 +6,7 @@ My goal is to build a cozy Anime-inspired Recipe Portal where I share my favorit
 
 🛠️ What I learned so far
 
-Day 1: HTML Basics
+## Day 1: HTML Basics
 - Structure: Understanding <html>, <head>, and <body>.
 - Elements: Working with buttons, links (<a>), and paragraphs (<p>).
 - Attributes: Using href and target="_blank".
